@@ -1,0 +1,16 @@
+﻿  Building 'myipecmd' with toolset 'WindowsApplicationForDrivers10.0' and the 'Universal' target platform.
+  usbinterface.cpp
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(357,61): warning C4242: 'argument': conversion from 'int' to 'UCHAR', possible loss of data
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(363,95): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(363,95): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(367,99): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(367,99): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(373,93): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(373,93): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(378,93): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(378,93): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(385,97): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(385,97): message : placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+C:\Users\Unixt\source\repos\myipecmd\myipecmd\usbinterface.cpp(395,5): warning C4102: 'done': unreferenced label
+  myipecmd.vcxproj -> C:\Users\Unixt\source\repos\myipecmd\x64\Debug\myipecmd.exe
+  Driver is a Universal Driver.
